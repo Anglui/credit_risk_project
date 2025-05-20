@@ -1,5 +1,5 @@
-raw_data_dir: /Volumes/Elements/fannie_mae_data/raw/
-interim_data_dir: /Volumes/Elements/fannie_mae_data/interim/
-processed_data_dir: /Volumes/Elements/fannie_mae_data/processed/
-outputs_dir: /Volumes/Elements/fannie_mae_data/outputs/
-metadata_file: /Volumes/Elements/fannie_mae_data/metadata/crt-file-layout-and-glossary.xlsx
+raw: /Volumes/Elements/fannie_mae_data/raw/
+interim: /Volumes/Elements/fannie_mae_data/interim/
+processed: /Volumes/Elements/fannie_mae_data/processed/
+outputs: /Volumes/Elements/fannie_mae_data/outputs/
+metadata: /Volumes/Elements/fannie_mae_data/metadata/crt-file-layout-and-glossary.xlsx
