@@ -1,0 +1,2 @@
+# Credit Risk Modeling with Fannie Mae Data
+This project presents a machine learning pipeline for predicting mortgage default using Fannie Mae's Single-Family Loan Performance data. It includes calibrated probabilistic modeliing, conformal prediction for uncertainty, SHAP explainability, and is presented with a Streamlit dashboard and FastAPI endpoint.
